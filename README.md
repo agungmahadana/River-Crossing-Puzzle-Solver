@@ -1,2 +1,70 @@
-# River-Crossing-Puzzle-Solver
-A program that can solve the River Crossing Puzzle using both Depth First Search (DFS) and Breadth First Search (BFS) methods.
+<a name="readme-top"></a>
+
+<!-- ABOUT THE PROJECT -->
+
+# River Crossing Puzzle Solver
+
+The River Crossing Puzzle is a popular puzzle that involves a farmer who needs to transport a wolf, a goat, and a cabbage across a river, but can only carry one item at a time. However, there's a catch - the wolf cannot be left alone with the goat, and the goat cannot be left alone with the cabbage. This program will solve the River Crossing Puzzle using both Depth First Search (DFS) and Breadth First Search (BFS) methods.
+
+Use the `README.md` to get started.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Built With
+
+- [![Python][python.org]](https://www.python.org/)
+- [![Jupyter][jupyter.org]](https://jupyter.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## Installation
+
+1. Clone the repo
+   ```sh
+   https://github.com/agungmahadana/River-Crossing-Puzzle-Solver.git
+   ```
+2. Build and clean
+3. Run the app
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+- [Python](https://www.python.org/)
+- [Jupyter](https://jupyter.org/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINK & IMAGE -->
+
+[python.org]: https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python
+[jupyter.org]: https://img.shields.io/badge/jupyter-gray?style=for-the-badge&logo=jupyter
